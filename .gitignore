@@ -1,0 +1,18 @@
+# Ignore compiled files
+*.class
+*.jar
+*.war
+
+
+# Ignore build output
+/target/
+/dist/
+data
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE-specific files
+.idea/
+.vscode/

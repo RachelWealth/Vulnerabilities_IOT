@@ -1,0 +1,13 @@
+1. Open wifi: vulnerability types and numbers of different risk level-where to put them?
+2. 2021?2022?
+3.unknown-display?
+4. show the analysis of information which can as keyworsd?
+
+
+2.Report requirement, only report?
+sent with dsb
+
+type first
+open wifi one type
+try to - Misc
+sha is not cipher
